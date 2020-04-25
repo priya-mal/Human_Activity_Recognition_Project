@@ -12,7 +12,7 @@ By using the sensors(Gyroscope and accelerometer) in a smartphone, they have cap
 
 > suffix 'XYZ' represents 3-axial signals in X , Y, and Z directions.
 
-### Feature names
+### Feature_names
 
 1. These sensor signals are preprocessed by applying noise filters and then sampled in fixed-width windows(sliding windows) of 2.56 seconds each with 50% overlap. ie., each window has 128 readings. 
 
